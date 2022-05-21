@@ -4,6 +4,7 @@
 </script>
 
 <svelte:head>
+    <title>parnex - portfolio website</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Exo:wght@800&family=Maven+Pro:wght@900&display=swap');
     </style> 

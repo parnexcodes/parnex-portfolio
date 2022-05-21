@@ -8,5 +8,5 @@ My Portfolio Website made using SvelteKit and Tailwind CSS.
 
 ## Tech Stack
 
-- Svelte
+- SvelteKit
 - Tailwind CSS
