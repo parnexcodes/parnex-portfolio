@@ -1,8 +1,10 @@
 # parnex-portfolio
 
+My Portfolio Website made using SvelteKit and Tailwind CSS.
+
 ## Running Locally
 
-**```yarn run dev```**
+```yarn run dev```
 
 ## Tech Stack
 
