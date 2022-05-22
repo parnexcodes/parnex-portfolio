@@ -1,6 +1,7 @@
 <script>
     import Footer from "../components/Footer.svelte";
     import Socials from "../components/Socials.svelte";
+    import Header from "../components/Header.svelte";
 </script>
 
 <svelte:head>
@@ -10,15 +11,16 @@
     </style> 
 </svelte:head>
 
-<div class="bg-neutral-900 h-screen">
-    <div class="flex flex-col justify-center items-center h-screen">
+<div class="bg-neutral-900 h-screen overflow-hidden">
+    <Header />
+    <div class="flex flex-col justify-center items-center h-full pb-32">
         <div class="font-exo tracking-wider text-8xl bg-gradient-to-r from-[#007CF0] to-[#00DFD8] text-transparent bg-clip-text">
             parnex
         </div>
         <div class="text-md pt-4 text-gray-200">
-            ReactJS | Svelte | React Native | AWS
+            Developer | Gamer | Cinephile | Technophile
         </div>
-        <Footer />
         <Socials />
+        <Footer />
     </div>
 </div>
