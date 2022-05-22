@@ -3,6 +3,10 @@
     let profileImage = '/profile.jpg'
 </script>
 
+<svelte:head>
+    <title>parnex - about</title>
+</svelte:head>
+
 <div class="bg-neutral-900 min-h-screen">
     <Header />
     <div class="flex flex-col justify-center items-center pt-20">
