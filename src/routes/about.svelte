@@ -19,21 +19,21 @@
     </div>
     <div class="tracking-wider bg-gradient-to-r from-[#06beb6] to-[#48b1bf] text-transparent bg-clip-text font-bold text-4xl">Education</div>
     <ul class="mt-8 mr-8 ml-8 list-disc">
-    <li class="text-gray-200 text-lg text-center">BTech in Information Technology from <span class="font-bold">"Arya College of Engineering & IT"</span> [2020-24]</li>
-    <li class="text-gray-200 text-lg text-center">Class 12th from<span class="font-bold">"A's Steward Morris School"</span> [2020]</li>
-    <li class="text-gray-200 text-lg text-center">Class 10th from<span class="font-bold">"A's Steward Morris School"</span> [2018]</li>
+    <li class="text-gray-200 text-md text-center">BTech in Information Technology from <span class="font-bold">"Arya College of Engineering & IT"</span> [2020-24]</li>
+    <li class="text-gray-200 text-md text-center">Class 12th from <span class="font-bold">"A's Steward Morris School"</span> [2020]</li>
+    <li class="text-gray-200 text-md text-center">Class 10th from <span class="font-bold">"A's Steward Morris School"</span> [2018]</li>
     </ul>
     <div class="tracking-wider bg-gradient-to-r from-[#06beb6] to-[#48b1bf] text-transparent bg-clip-text font-bold text-4xl mt-8">Work Experience</div>
     <ul class="mt-8 mr-8 ml-8 list-disc">
-    <li class="text-gray-200 text-lg text-center">Core Member at <span class="font-bold">"Lincom Club"</span> [2022]</li>
-    <li class="text-gray-200 text-lg text-center">Organized 20+ Hackathons for <span class="font-bold">"Lincom Club"</span> [2022]</li>
-    <li class="text-gray-200 text-lg text-center">Founded <span class="font-bold">"Cloudwings Host"</span> [2019-20]</li>
+    <li class="text-gray-200 text-md text-center">Core Member at <span class="font-bold">"Lincom Club"</span> [2022]</li>
+    <li class="text-gray-200 text-md text-center">Organized 20+ Hackathons for <span class="font-bold">"Lincom Club"</span> [2022]</li>
+    <li class="text-gray-200 text-md text-center">Founded <span class="font-bold">"Cloudwings Host"</span> [2019-20]</li>
     </ul>
     <div class="tracking-wider bg-gradient-to-r from-[#06beb6] to-[#48b1bf] text-transparent bg-clip-text font-bold text-4xl mt-8">Achievements</div>
     <ul class="mt-8 mr-8 ml-8 list-disc">
-    <li class="text-gray-200 text-lg text-center">Selected in <span class="font-bold">"Smart India Hackathon"</span> [2022]</li>
-    <li class="text-gray-200 text-lg text-center">Finished <span class="font-bold">"Hacktoberfest"</span> by DigitalOcean [2021]</li>
-    <li class="text-gray-200 text-lg text-center">Finished <span class="font-bold">"Hacktoberfest"</span> by DigitalOcean [2020]</li>
+    <li class="text-gray-200 text-md text-center">Selected in <span class="font-bold">"Smart India Hackathon"</span> [2022]</li>
+    <li class="text-gray-200 text-md text-center">Finished <span class="font-bold">"Hacktoberfest"</span> by DigitalOcean [2021]</li>
+    <li class="text-gray-200 text-md text-center">Finished <span class="font-bold">"Hacktoberfest"</span> by DigitalOcean [2020]</li>
     </ul>
     <div class="tracking-wider bg-gradient-to-r from-[#06beb6] to-[#48b1bf] text-transparent bg-clip-text font-bold text-4xl mt-8">Tech Stack</div>
     <div class="flex flex-row flex-wrap mt-8 mb-8 justify-center">
